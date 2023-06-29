@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 - The first version of the mod
+Date: 29. 06. 2023
+  Changes:
+    - The first version of the mod.

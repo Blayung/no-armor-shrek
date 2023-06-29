@@ -1,0 +1,11 @@
+{
+  "name": "no-armor-shrek",
+  "version": "1.0.0",
+  "title": "No Armor Shrek",
+  "author": "Blay",
+  "contact": "gpewojan1@gmail.com",	
+  "description": "(This is a fork of the https://mods.factorio.com/mod/shrek mod by jerzygorski, that deletes armor from the character model of the mentioned mod. All credits to him!) This mod replaces the engineer character with our beloved ogre.",
+
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"]
+}
