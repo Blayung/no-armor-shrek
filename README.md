@@ -1,6 +1,6 @@
 ## This is a fork of the [shrek factorio mod](https://mods.factorio.com/mod/shrek) by jerzygorski, that deletes armor from the character model of the mentioned mod. All credits to him!
-
-### Original readme
+## Download at: [https://mods.factorio.com/mod/no-armor-shrek](https://mods.factorio.com/mod/no-armor-shrek)
+## Original readme:
 ```
 Installation Instructions:
 -Drop the provided zip into %appdata%/Factorio/mods
