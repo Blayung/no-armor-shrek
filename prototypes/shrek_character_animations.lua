@@ -1,5 +1,5 @@
 local SHREK = require('common')
-IMGPATH = "__shrek__/CharacterAssets/shrek/"
+IMGPATH = "__no-armor-shrek__/CharacterAssets/shrek/"
 
 local shrekarmor = {
   dead =
